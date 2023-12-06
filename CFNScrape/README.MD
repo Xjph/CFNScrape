@@ -1,3 +1,3 @@
-This basic scraper is offered freely without supprt, license, or warranty.
+This basic scraper is offered freely without support, license, or warranty.
 
 Use at your own risk.
